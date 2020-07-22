@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi how are ya 👋
 
 - 🔭 I’m currently working on the numerous small projects I've amassed over the years as I await the start of my job with CarMax.
 - 🌱 I’m currently learning D3.js
